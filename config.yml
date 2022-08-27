@@ -8,7 +8,7 @@ openAi:
 amqp:
   url: "{AMQP_URL}"
 discord:
-  token: "MTAxMjgxMTkwOTM4NjQ4MTc2NA.Gzhs-o.qHogYLEVMY9ihOmT0Ig1uZWsp0RYyqdKJz50uE"
+  token: "{MTAxMjgxMTkwOTM4NjQ4MTc2NA.Gzhs-o.qHogYLEVMY9ihOmT0Ig1uZWsp0RYyqdKJz50uE}"
 deploy:
   port: "{PORT}"
 mongo:
